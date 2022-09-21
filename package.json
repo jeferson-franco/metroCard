@@ -1,0 +1,20 @@
+{
+  "name": "metrocard",
+  "version": "1.0.0",
+  "description": "You just bought a public transit card that allows you to ride the Metro for a certain number of days.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/metroCard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/metroCard/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/metroCard#readme"
+}
